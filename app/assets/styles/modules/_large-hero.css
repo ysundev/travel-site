@@ -2,7 +2,6 @@
  	position: relative;
 
 	&__text-content {
-		color: $aMadeUpVariable;
 	 	position: absolute;
 	 	top: 50%;
 	 	transform: translateY(-50%);
