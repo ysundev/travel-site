@@ -445,7 +445,6 @@ img {
 	}
 
 .wrapper {
-	background-color: green;
 	overflow: hidden;
 	padding-left: 18px;
 	padding-right: 18px;
@@ -532,10 +531,6 @@ img {
 .headline--b-margin-large {
     margin-bottom: 1.6em;
   }
-
-.row {
-	background-color: yellow ;
-}
 
 .row::after {
 		content: "";
